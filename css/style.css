@@ -2,8 +2,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #0c2940;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    color: #0f0300;
 }
 html,
 body {
@@ -33,4 +33,24 @@ main{
     right: 50%;
     transform: translateY(-50%);
     text-align: center;
+}
+.edition3{
+    position: absolute;
+    left: 25px;
+    height: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 10%;
+    
+
+}
+.sobre{
+    position: absolute;
+    height: 10%;
+    width: 50%;
+    text-align: center;
+
+    
+    
+
 }
