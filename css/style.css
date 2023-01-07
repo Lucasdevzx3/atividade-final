@@ -54,8 +54,8 @@ main{
 }
 .edition3{
     position: absolute;
-    left: 230px;
-    height: 30%;
+    left: 280px;
+    height: 18%;
     top: 50%;
     transform: translateY(-50%);
     padding: 0 10%;
@@ -70,5 +70,22 @@ main{
 
     
     
+
+}
+.edition4{
+    position: absolute;
+    left: 280px;
+    height: 95%;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 10%;
+}
+.edition5{
+    position: absolute;
+    left: 0px;
+    height: 65%;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 10%;
 
 }
